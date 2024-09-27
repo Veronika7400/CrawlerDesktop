@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mstart.Crawler.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "a b c "
+    }
+  }
+}
